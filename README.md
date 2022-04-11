@@ -1,3 +1,4 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&text=H3LLO!&animation=fadeIn&fontColor=FFFFFF&fontAlign=80&fontAlignY=40)
 ## My name is Chanha Park, Nice to meet you! 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FH3LLO-kr&count_bg=%23EB4C4C&title_bg=%23171717&icon=github.svg&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Instagram](https://img.shields.io/badge/instagram-BA189A?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/h3llo_chanhaaa/)](https://www.instagram.com/h3llo_chanhaaa/)
