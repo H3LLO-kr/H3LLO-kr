@@ -6,10 +6,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qkrcksgk02@korea.ac.kr)](mailto:qkrcksgk02@korea.ac.kr)
 ## 🎓Education
 
-|**Contents**|**Organization**|**Date**|
+|**Date**|**Organization**|**Contents**|
 |-|-|-|
-|Department of Cyber Defense|Korea University|2021. 03 ~ |
-|6th Cadet|42Seoul|2022. 03 ~ |
+|2021. 03 ~ |Korea University|Department of Cyber Defense|
+|2022. 03 ~ |42Seoul|6th Cadet|
 
 ## 📚Studying
 
