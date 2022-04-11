@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/instagram-BA189A?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/h3llo_chanhaaa/)](https://www.instagram.com/h3llo_chanhaaa/)
 [![Facebook](https://img.shields.io/badge/Facebook-1068E8?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/H3LLOkr/)](https://www.facebook.com/H3LLOkr/)
 [![Velog.io](https://img.shields.io/badge/velog.io-25C185?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@h3llo-kr)](https://velog.io/@h3llo-kr)
-[![Youtube](https://img.shields.io/badge/Youtube-25C185?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCmOdl8kB1b7oybjWa8nyXzw)](https://www.youtube.com/channel/UCmOdl8kB1b7oybjWa8nyXzw)
+[![Youtube](https://img.shields.io/badge/Youtube-FB0006?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCmOdl8kB1b7oybjWa8nyXzw)](https://www.youtube.com/channel/UCmOdl8kB1b7oybjWa8nyXzw)
 [![Mail](https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qkrcksgk02@korea.ac.kr)](mailto:qkrcksgk02@korea.ac.kr)
 ## 🎓Education
 
