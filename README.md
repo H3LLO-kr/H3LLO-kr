@@ -1,5 +1,9 @@
 ## My name is Chanha Park, Nice to meet you! 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FH3LLO-kr&count_bg=%23EB4C4C&title_bg=%23171717&icon=github.svg&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com) <a href=https://www.instagram.com/h3llo_chanhaaa/><img src="https://img.shields.io/badge/instagram-BA189A?style=flat-square&logo=Instagram&logoColor=white"/> <a href=https://www.facebook.com/H3LLOkr/><img src="https://img.shields.io/badge/Facebook-1068E8?style=flat-square&logo=facebook&logoColor=white"/> <a href=https://velog.io/@h3llo-kr><img src="https://img.shields.io/badge/velog.io-25C185?style=flat-square&logo=velog&logoColor=white"/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FH3LLO-kr&count_bg=%23EB4C4C&title_bg=%23171717&icon=github.svg&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href=https://www.instagram.com/h3llo_chanhaaa/><img src="https://img.shields.io/badge/instagram-BA189A?style=flat-square&logo=Instagram&logoColor=white"/>
+<a href=https://www.facebook.com/H3LLOkr/><img src="https://img.shields.io/badge/Facebook-1068E8?style=flat-square&logo=facebook&logoColor=white"/>
+[![Velog.io](https://img.shields.io/badge/velog.io-25C185?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@h3llo-kr)]
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qkrcksgk02@korea.ac.kr)](mailto:qkrcksgk02@korea.ac.kr)
 ## 🎓Education
 
 |**Contents**|**Organization**|**Date**|
