@@ -1,6 +1,7 @@
-### My name is Chanha Park, Nice to meet you! 👋
+## My name is Chanha Park, Nice to meet you! 👋
+---
+## Education
 
-## Hello
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrcksgk02)](https://solved.ac/qkrcksgk02)
