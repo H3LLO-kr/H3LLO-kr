@@ -1,6 +1,9 @@
 ## My name is Chanha Park, Nice to meet you! 👋
----
 ## Education
+* Korea University, Department of Cyber Defense 2021.03. ~
+* 42Seoul Cardet 6th 2022.03. ~
+
+
 
 
 [![Solved.ac
