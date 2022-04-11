@@ -18,7 +18,7 @@
 ![Python](https://img.shields.io/badge/Python-295784?style=flat-square&logo=python&logoColor=white)
 
 ## and more..
+[![chanhapa's 42 stats](https://badge42.vercel.app/api/v2/cl1uh4k4d006809lagsd9pqks/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrcksgk02)](https://solved.ac/qkrcksgk02)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H3LLO-kr)](https://github.com/H3LLO-kr/github-readme-stats)
