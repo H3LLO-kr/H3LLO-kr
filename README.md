@@ -11,7 +11,7 @@
 |**Date**|**Organization**|**Contents**|
 |-|-|-|
 |2021. 03 ~ |Korea University|Department of Cyber Defense|
-|2022. 03 ~ |42Seoul|6th Cadet|
+|2022. 03 ~ 2022.09.|42Seoul|6th Cadet|
 
 ## 📚Studying
 
