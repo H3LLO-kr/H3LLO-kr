@@ -11,6 +11,7 @@
 |-|-|-|
 |2021. 03 ~ |Korea University|Department of Cyber Defense|
 |2022. 03 ~ 2022.09.|42Seoul|6th Cadet|
+|2024. 03 ~ |WhiteHat School|2th|
 
 ## 📚Studying
 
