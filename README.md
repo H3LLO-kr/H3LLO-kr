@@ -15,6 +15,7 @@
 |2025. 01. ~ |Digital Forensic Research Center|Ungraduate research assistant|
 
 ## 🏆Award
+|**Date**|**Organization**|**Award**|**Contents**|
 |-|-|-|-|
 |2024. 09.|WhiteHat School|우수프로젝트|Kakaotalk Artifacts Analysis|
 
