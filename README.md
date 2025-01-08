@@ -17,7 +17,7 @@
 ## 🏆Award
 |**Date**|**Organization**|**Award**|**Contents**|
 |-|-|-|-|
-|2024. 09.|WhiteHat School|우수프로젝트|Kakaotalk Artifacts Analysis|
+|2024. 09.|![WhiteHat School](https://img.shields.io/badge/-whitehatschool-63ad47?style=for-the-badge)|우수프로젝트|Kakaotalk Artifacts Analysis|
 
 ## 📚Studying
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
