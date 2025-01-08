@@ -9,15 +9,14 @@
 
 |**Date**|**Organization**|**Contents**|
 |-|-|-|
-|2021. 03 ~ |Korea University|Department of Cyber Defense|
-|2022. 03 ~ 2022.09.|42Seoul|6th Cadet|
-|2024. 03 ~ 2024.09.|WhiteHat School|2th|
+|2021. 03. ~ |Korea University|Department of Cyber Defense|
+|2022. 03. ~ 2022.09.|42Seoul|6th Cadet|
+|2024. 03. ~ 2024.09.|WhiteHat School|2th|
+|2025. 01. ~ |Digital Forensic Research Center|Ungraduate research assistant|
 
-## 📚Studying
-
-![C/C++](https://img.shields.io/badge/C/C++-0D6AC1?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-3B607E?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-295784?style=flat-square&logo=python&logoColor=white)
+## 🏆Award
+|-|-|-|-|
+|2024. 09.|WhiteHat School|우수프로젝트|Kakaotalk Artifacts Analysis|
 
 ## and more..
 [![Solved.ac
