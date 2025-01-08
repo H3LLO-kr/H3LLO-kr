@@ -9,15 +9,23 @@
 
 |**Date**|**Organization**|**Contents**|
 |-|:-:|-|
-|2021. 03. ~ |Korea University|Department of Cyber Defense|
+|2021. 03. ~ |![Korea University](https://img.shields.io/badge/-koreauniversity-680916?style=for-the-badge)|Department of Cyber Defense|
 |2022. 03. ~ 2022.09.|![42](https://img.shields.io/badge/-42Seoul-black?style=for-the-badge&logo=42&logoColor=white)|6th Cadet|
-|2024. 03. ~ 2024.09.|WhiteHat School|2th|
-|2025. 01. ~ |Digital Forensic Research Center|Ungraduate research assistant|
+|2024. 03. ~ 2024.09.|![WhiteHat School](https://img.shields.io/badge/-whitehatschool-63ad47?style=for-the-badge)|2th|
+|2025. 01. ~ |![DFRC](https://img.shields.io/badge/-DFRC-022A46?style=for-the-badge)|Ungraduate research assistant|
 
 ## 🏆Award
 |**Date**|**Organization**|**Award**|**Contents**|
 |-|-|-|-|
 |2024. 09.|WhiteHat School|우수프로젝트|Kakaotalk Artifacts Analysis|
+
+## 📚Studying
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-181a1f?style=for-the-badge&logo=react)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ## and more..
 [![Solved.ac
