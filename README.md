@@ -8,9 +8,9 @@
 ## 🎓Education
 
 |**Date**|**Organization**|**Contents**|
-|-|-|-|
+|-|:-:|-|
 |2021. 03. ~ |Korea University|Department of Cyber Defense|
-|2022. 03. ~ 2022.09.|42Seoul|6th Cadet|
+|2022. 03. ~ 2022.09.|![42](https://img.shields.io/badge/-42Seoul-black?style=for-the-badge&logo=42&logoColor=white)|6th Cadet|
 |2024. 03. ~ 2024.09.|WhiteHat School|2th|
 |2025. 01. ~ |Digital Forensic Research Center|Ungraduate research assistant|
 
