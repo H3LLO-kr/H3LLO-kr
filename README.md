@@ -12,7 +12,7 @@
 |-|:-:|-|
 |2021. 03. ~ |![Korea University](https://img.shields.io/badge/-koreauniversity-680916?style=for-the-badge)|Department of Cyber Defense|
 |2022. 03. ~ 2022.09.|![42](https://img.shields.io/badge/-42Seoul-black?style=for-the-badge&logo=42&logoColor=white)|6th Cadet|
-|2024. 03. ~ 2024.09.|![WhiteHat School](https://img.shields.io/badge/-whitehatschool-63ad47?style=for-the-badge)|2th|
+|2024. 03. ~ 2024.09.|![WhiteHat School](https://img.shields.io/badge/-whitehatschool-63ad47?style=for-the-badge)|2nd|
 |2025. 01. ~ |![DFRC](https://img.shields.io/badge/-DFRC-022A46?style=for-the-badge)|Ungraduate research assistant|
 
 ## 🏆Award
