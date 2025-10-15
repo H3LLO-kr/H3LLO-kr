@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&text=H3LLO!&animation=fadeIn&fontColor=FFFFFF&fontAlign=80&fontAlignY=40)
 ## My name is Chanha Park, Nice to meet you! 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FH3LLO-kr&count_bg=%23EB4C4C&title_bg=%23171717&icon=github.svg&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
+[![H3LLO-KR](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=red&label=H3LLO-KR&size=small)](https://myhits.vercel.app)
 [![Instagram](https://img.shields.io/badge/instagram-BA189A?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/h3llo_chanhaaa/)](https://www.instagram.com/h3llo_chanhaaa/)
 [![Facebook](https://img.shields.io/badge/Facebook-1068E8?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/H3LLOkr/)](https://www.facebook.com/H3LLOkr/)
 [![Velog.io](https://img.shields.io/badge/velog.io-25C185?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@h3llo-kr)](https://velog.io/@h3llo-kr)
